@@ -5,7 +5,7 @@ import { ProviderSelector } from '@/components/ProviderSelector';
 import { AdvancedFilters } from '@/components/AdvancedFilters';
 import { FileTree } from '@/components/file-tree';
 import { OutputPanel } from '@/components/OutputPanel';
-import { PaperPmfPromo } from '@/components/PaperPmfPromo';
+// import { PaperPmfPromo } from '@/components/PaperPmfPromo';
 import { ProviderError } from '@/lib/providers/types';
 import { GitHubProvider } from '@/features/github';
 import { Formatter } from '@/lib/formatter';
