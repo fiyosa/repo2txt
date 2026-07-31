@@ -19,6 +19,7 @@ export default defineConfig({
     },
   },
   build: {
+    outDir: './docs',
     target: 'es2022',
     sourcemap: true,
     rollupOptions: {
